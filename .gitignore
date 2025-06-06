@@ -1,0 +1,9 @@
+summary/output
+*.m4a
+*.mp3
+config.json
+input.txt
+result.txt
+.DS_Store
+result*.txt
+*.mp4
